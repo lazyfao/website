@@ -184,7 +184,7 @@ kubectl get pods -l 'environment,environment notin (frontend)'
 
 ```json
 "selector": {
-    "component" : "redis",
+    "component" : "redis"
 }
 ```
 
